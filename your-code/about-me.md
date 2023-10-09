@@ -28,4 +28,4 @@ Lidia Viñuales
 
 * Which industry will you seek employment in? Consultoría, banca o multinacional
 * What will your future role look like? Businnes Analyst o Data Analyst
-* What is your career goal? Encontrar un trabajo en el que la funciones a desarrollar me motiven y este agusto en mi equipo de trabajo
+* What is your career goal? Encontrar un trabajo en el que la funciones a desarrollar me motiven y este agusto en mi equipo de trabajo. 
