@@ -1,0 +1,12 @@
+git status
+
+git pull origin main
+
+modifico archivos
+git status
+git add . 
+git commit -m 'creacion conflicto'
+git push
+git log
+git reset  --hard 5ea8bd6d2279f7affdf92beab02c373e1339684b
+git checkout -b lab-resolving-git-conflicts2
