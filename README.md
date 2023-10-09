@@ -8,6 +8,9 @@ Resolving Git conflicts and merging branches is an important skill every softwar
 
 ### Prerequisites
 
+
+
+
 * At this point you should have created a fork in your own Git account from the bootcamp's lab repo. 
 
 * You should also have cloned your forked repo to your computer.
