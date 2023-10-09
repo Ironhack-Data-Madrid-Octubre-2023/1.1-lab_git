@@ -5,7 +5,6 @@ estudiando distintos cursos sobre analisis de datos, incluyendo sql y otros. Ten
 tome la decision de venir a vivir aca y hacer el bootcamp.
 Ademas, me da mucha curiosidad el mundo de la tecnologia entre estos los datos y la estadistica.
  
-
 Espero llevarme la mayor cantidad de herramientas posibles para en el futuro cercano poder resolver los problemas que se me puedan presentar en el mundo laboral.
 Por mas que considero tener buenos soft skills, vivirlo en otro pais con una cultura diferente tambien es un desafio y me gustaria aprender lo maximo posible en ese sentido.
 Sumandole un mejor manejo de herraminetas sociales como Linkedin.
