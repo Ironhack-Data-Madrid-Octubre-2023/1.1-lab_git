@@ -77,6 +77,7 @@ If you encounter conflicts when you sync your branch with the remote, fix the co
 In your real work you don't create conflicting changes on purpose. But for the sake of practicing in this lab, let's create a conflicting change. Here's how:
 
 1. Currently you should be on the master branch. You will update the `your-code/about-me.md` file by adding or removing anything from the file. Then **add this file to git, commit, and push it to the remote master branch**.
+:O Conflict
 
 1. Now, find out the ID of the commit prior to your latest commit. You can do this by executing the following command in Terminal:
 
