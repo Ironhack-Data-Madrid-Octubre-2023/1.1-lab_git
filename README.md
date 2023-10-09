@@ -20,7 +20,7 @@ Below is a summary of the steps you will follow in this lab:
 
 1. Commit changes on local branch and sync with remote.
 1. Create a conflict with the master branch.
-1. Resolve the conflict.
+1. Resolve the conflict...
 1. Merge your branch.
 1. Push to remote.
 
