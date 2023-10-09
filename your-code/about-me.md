@@ -31,3 +31,5 @@
 * Which industry will you seek employment in? big tech or big 4
 * What will your future role look like? Freelance 
 * What is your career goal? i dont know.
+
+rama
