@@ -14,3 +14,4 @@
 * Which industry will you seek employment in? Either continue on the consulting side, or find a new role in corporate in retail, consumer or technology 
 * What will your future role look like? Still unsure. Need to figure out how to transition from the current role leveraging new skills from bootcamp. 
 * What is your career goal? Transition from strategy consulting to a marketing or cx role, ideally one that required more in-depth data analytics skills 
+
