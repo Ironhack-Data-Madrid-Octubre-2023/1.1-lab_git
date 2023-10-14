@@ -1,15 +1,5 @@
-<<<<<<< HEAD
 Soy Yanina, soy de Argentina y hace casi dos años que vine (junto a mi marido y mi hija) a España. Llegamos a Málaga, pero nos instalamos en Madrid
 Soy Licenciada en Nutrición, me recibí en la Universidad de Buenos Aires. En Argentina trabajaba de nutricionista y también comecé hace algunos años a asesorar sobre viajes, especialmente viajes a Disney Orlando y Universal Studios Orlando. 
-=======
-************CAMBIO************* 
-************CAMBIO************* 
-************CAMBIO************* 
-************CAMBIO************* 
-************CAMBIO************* 
-************CAMBIO************* 
-************CAMBIO************* 
->>>>>>> 9180beae00401adfa72edc47a3d2198fb5f3cb7e
 
 No tengo nada de experiencia en datos, ni en tecnología, pero el estar casada con un SRE me hizo interesarme por este mundo. 
 Al emigrar a España, fue como volver a nacer en algún punto ya que cambiábamos de "todo"... 
