@@ -1,6 +1,7 @@
 
 Holaa, mi nombre es Matias Mengot
 
+
 Tengo 23 años y soy de Uruguay. Recientemente me recibi de economista y al no tener muy claro que me gustaba hacer luego de recibido. Por esto fui  
 estudiando distintos cursos sobre analisis de datos, incluyendo sql y otros. Teniendo esto en cuenta y mi curiosidad por vivir en el exterior es que 
 tome la decision de venir a vivir aca y hacer el bootcamp.
