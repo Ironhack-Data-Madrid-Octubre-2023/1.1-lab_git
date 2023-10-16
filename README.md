@@ -141,4 +141,4 @@ Make the pull request to **merge the `lab-resolving-git-conflicts` branch of you
 
 ![Git pull request](git-pull-request.png)
 
-CONFLICT
+CAMBIO
