@@ -1,0 +1,72 @@
+[33mcommit a6920ac6b44a9b4eda1b23b88efbf2cfe9f754f4[m[33m ([m[1;36mHEAD -> [m[1;32mlab-resolving-git-conflicts2[m[33m, [m[1;31morigin/lab-resolving-git-conflicts2[m[33m)[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Mon Oct 16 17:08:53 2023 +0200
+
+    add about me
+
+[33mcommit 971777c181501097d3f81f4d056291821780a482[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Mon Oct 16 17:06:44 2023 +0200
+
+    prueba
+
+[33mcommit 2450722bd3580358c326f18d1c8023bc188226e1[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Mon Oct 16 17:05:57 2023 +0200
+
+    prueba
+
+[33mcommit f7ff47fd226ac7a54c3ce3fbd8c8c6addfbc73e9[m
+Merge: 7972821 dde31b7
+Author: Matimengot <matimengot@gmail.com>
+Date:   Mon Oct 16 17:05:08 2023 +0200
+
+    Merge branch 'main' of https://github.com/Matimengot/1.1-lab_git into lab-resolving-git-conflicts2
+
+[33mcommit 7972821ae6c05c59b7bb348643e1288577ebb105[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Mon Oct 16 16:59:17 2023 +0200
+
+    agregue about me
+
+[33mcommit 97817871ece75a63290494c9cd6824d91de33eb1[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Tue Oct 10 00:18:16 2023 +0200
+
+    solucion con about me
+
+[33mcommit 0786bbade6de28900ac049a6e92d8fdfb4ec9c11[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Tue Oct 10 00:10:45 2023 +0200
+
+    about me
+
+[33mcommit 485abcd1e631ac3fc1a6199a8e02066eb28109b0[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Mon Oct 9 19:26:06 2023 +0200
+
+    solucion con mi info
+
+[33mcommit f6c53864bcd3060a82417f52c44fb74b055103ba[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Mon Oct 9 19:22:31 2023 +0200
+
+    solucion con mi info
+
+[33mcommit dde31b756d9480d3866bb63ff0c6902df0608803[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Mon Oct 9 17:59:12 2023 +0200
+
+    creacion conflicto
+
+[33mcommit 5ea8bd6d2279f7affdf92beab02c373e1339684b[m[33m ([m[1;32mlab-resolving-git-conflicts[m[33m)[m
+Author: Matimengot <matimengot@gmail.com>
+Date:   Mon Oct 9 17:44:42 2023 +0200
+
+    prueba
+
+[33mcommit 6472e395ec46c727f12a77453f39531ed2770db5[m
+Author: iudh <yeho@mail.com>
+Date:   Mon Oct 2 10:06:38 2023 +0200
+
+    init
